@@ -1,0 +1,14 @@
+C:\Users\yyz-zenass\source\repos\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\yyz-zenass\source\repos\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\yyz-zenass\source\repos\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\yyz-zenass\source\repos\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\yyz-zenass\source\repos\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
